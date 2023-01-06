@@ -1,7 +1,7 @@
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://jimmy-home.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-22272E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:bornd89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bornd89@hanmail.net-22272E?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+  <a href="mailto:bornd89@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/bornd89@hanmail.net-22272E?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
 </p>
 
 <p>
