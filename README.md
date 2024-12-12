@@ -20,7 +20,7 @@
 </p>
 <p> 
   <img src="https://img.shields.io/badge/Java-22272E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/PHP-8.1-blue?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PHP?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 </p>
 
 
