@@ -21,6 +21,7 @@
 <p> 
   <img src="https://img.shields.io/badge/Java-22272E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
 </p>
 
 
