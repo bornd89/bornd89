@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/React Native-22272E?style=flat-square&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Android-22272E?style=flat-square&logo=Android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/iOS-22272E?style=flat-square&logo=apple&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/iOS-22272E?style=flat-square&logo=apple&logoColor=FFFFFF"/>
 </p>
 <p> 
   <img src="https://img.shields.io/badge/Java-22272E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PHP-8.1-blue?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 </p>
 
 
